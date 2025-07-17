@@ -1,0 +1,10 @@
+.next/
+node_modules/
+*.log
+*.swp
+*.lock
+*.tmp
+*.bak
+*.tsbuildinfo
+*.map
+next-swc*
